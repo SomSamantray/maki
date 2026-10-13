@@ -205,7 +205,7 @@ fn tmp_tab(session: AppSession) -> OpenSession {
     OpenSession::claimed(session, &tmp_state())
 }
 
-/// A `test_app` past its idle splash, whose drifting starfield would mask
+/// A `test_app` past its idle splash, whose drifting contour field would mask
 /// every other cadence.
 fn app_without_splash() -> App {
     let mut app = test_app();
