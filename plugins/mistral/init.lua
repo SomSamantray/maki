@@ -56,7 +56,7 @@ maki.provider.register({
       key = "coding",
       display_name = "Vibe / Coding",
       default_model = "mistral-vibe-cli-latest",
-      login_url = "https://console.mistral.ai/codestral/cli",
+      login_url = "https://chat.mistral.ai/code/extensions",
     },
   },
   family = "generic",
